@@ -1,0 +1,1 @@
+require('./components/Checkbox/styles.css');

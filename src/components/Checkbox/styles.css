@@ -1,0 +1,6 @@
+/* component.css */
+@import 'variables.css';
+
+.checked {
+  background-color: var(--active-color);
+}

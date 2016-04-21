@@ -1,0 +1,23 @@
+{
+  "name": "css-modules-variables-import",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "css-loader": "^0.23.1",
+    "postcss": "^5.0.19",
+    "postcss-cssnext": "^2.5.2",
+    "postcss-import": "^8.1.0",
+    "postcss-loader": "^0.8.2",
+    "style-loader": "^0.13.1",
+    "webpack": "^1.13.0"
+  },
+  "scripts": {
+    "build": "webpack"
+  }
+}
